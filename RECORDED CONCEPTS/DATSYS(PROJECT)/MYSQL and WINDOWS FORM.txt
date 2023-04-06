@@ -1,0 +1,54 @@
+MYSQL and WINDOWS FORM CONNECTION 
+
+  private void HButton_Click(object sender, EventArgs e)
+        {
+ 
+            A = textBox1.Text;
+            B = textBox2.Text;
+            C = textBox3.Text;
+            D = textBox4.Text;
+            E = textBox5.Text;
+            query = "INSERT INTO tb_users(usertype, username, password, recoveryQ,recoveryA) VALUES('" + A + "', '" + B + "', '" + C + "', '" + D + "', '" + E + "'); ";
+            runQuery();
+
+        }
+
+
+
+
+      private void runQuery()
+        {
+
+            if (String.IsNullOrEmpty(textBox1.Text) && String.IsNullOrEmpty(textBox2.Text) && String.IsNullOrEmpty(textBox3.Text) && String.IsNullOrEmpty(textBox4.Text) && String.IsNullOrEmpty(textBox5.Text))
+            {
+                MessageBox.Show("Please input something");
+                return;
+            }
+            string MySQLConnectionString = "datasource=127.0.0.1;port=3306;username=root;password=;database=db_cardinventory";
+
+
+            MySqlConnection databaseConnection = new MySqlConnection(MySQLConnectionString);
+
+            MySqlCommand commandDatabase = new MySqlCommand(query, databaseConnection);
+            commandDatabase.CommandTimeout = 100;
+            databaseConnection.Open();
+            MySqlDataReader myreader = commandDatabase.ExecuteReader();
+            try
+            {
+               
+                if (myreader.HasRows)
+                {
+                    MessageBox.Show("Your query generated");
+
+                }
+                else
+                {
+                    MessageBox.Show("Inputted successfully");
+                }
+            }
+            catch(Exception e)
+            {
+                MessageBox.Show("Inputted not successful: "+ e.Message);
+            }
+
+        }

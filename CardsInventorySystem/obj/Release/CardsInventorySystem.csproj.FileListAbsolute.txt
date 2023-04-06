@@ -1,0 +1,47 @@
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\CardsInventorySystem.exe.config
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\CardsInventorySystem.exe
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\CardsInventorySystem.pdb
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\MetroFramework.dll
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\MetroFramework.Fonts.dll
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\MySql.Data.dll
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\Google.Protobuf.dll
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.AssemblyReference.cache
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminDelivery.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminHome.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminProduct.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminUsers.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.LogIn.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Product.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.DeliveryRequest.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Properties.Resources.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Home.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Delivery.resources
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.GenerateResource.cache
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.CopyComplete
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.exe
+C:\Users\MELLODINE TORRENUEVA\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.pdb
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\CardsInventorySystem.exe.config
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\CardsInventorySystem.exe
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\CardsInventorySystem.pdb
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\MetroFramework.dll
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\MetroFramework.Fonts.dll
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\MySql.Data.dll
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\bin\Release\Google.Protobuf.dll
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.AssemblyReference.cache
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminDelivery.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminHome.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminProduct.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.AdminUsers.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.LogIn.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Product.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.DeliveryRequest.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Properties.Resources.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Home.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.Delivery.resources
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.GenerateResource.cache
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.csproj.CopyComplete
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.exe
+C:\Users\tetsu\source\repos\CardsInventorySystem\CardsInventorySystem\obj\Release\CardsInventorySystem.pdb

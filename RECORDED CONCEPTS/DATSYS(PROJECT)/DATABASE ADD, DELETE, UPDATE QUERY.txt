@@ -1,0 +1,49 @@
+ADD, DELETE, UPDATE QUERY
+
+
+ADD
+INSERT INTO tb_users(usertype, username, password, recoveryQ,recoveryA)
+VALUES ('Admin', 'Dars', 'PSoda', 'What is you', 'Ikaw ikaw');
+
+DELETE 
+DELETE FROM tb_users WHERE username = ''; 
+
+UPDATE
+UPDATE tb_users 
+SET password = '' , so on and so forth
+WHERE username = ''; 
+
+
+Username query
+SELECT username
+From tb_users;
+
+
+Password query
+SELECT password
+From tb_users;
+
+
+
+
+C# interpretation
+
+"INSERT INTO tb_users(usertype, username, password, recoveryQ,recoveryA)
+VALUES ('"+A+"', '"+B+"', '"+C+"', '"+D+"', '"+E+"');"
+
+
+"DELETE FROM tb_users WHERE username = '"+A+"';"
+
+
+"UPDATE tb_users 
+SET password = '+""+' 
+WHERE username = '+""+';" 
+
+
+
+
+
+
+
+
+

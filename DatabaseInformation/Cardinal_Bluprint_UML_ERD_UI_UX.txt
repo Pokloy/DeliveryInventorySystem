@@ -1,0 +1,5 @@
+UML and ERD = https://lucid.app/lucidchart/31cf323d-1efe-4f1b-9fe5-8757f39bb379/edit?invitationId=inv_6e15f669-530b-425e-8682-cf68b8b6f773&page=0_0#
+
+
+
+UI DESIGN = https://www.figma.com/file/fRVEg56OWa96Cz4kUUplkJ/DELIVERY%2FINVENTORY-SYSTEM?node-id=0-1&t=jVL3UNQNjV8cKDkh-0
