@@ -28,7 +28,7 @@ namespace CardsInventorySystem
             AddPendIDtxtbox.Clear();
             AddDelIDtxtbox.Clear();
             pnametxtbox.Clear();
-            Quatxtbox.Clear();
+           
         }
         private void ProductEdit_Load(object sender, EventArgs e)
         {
